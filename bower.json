@@ -1,0 +1,25 @@
+{
+  "name": "electron_demo",
+  "description": "electron_demo",
+  "main": "index.js",
+  "authors": [
+    "JIE"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "electron"
+  ],
+  "homepage": "https://github.com/stableShip/electron_demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.1.0",
+    "angular-route": "^1.5.8",
+    "angular": "^1.5.8"
+  }
+}
